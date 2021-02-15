@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 01.01.1998  
+**Course Date:** 15.02.2021  
 **Name:** Özge  
 **Surname:** Maden   
 **Email:** ozgemaden@outlook.com  
