@@ -1,6 +1,6 @@
-#Generating a 3x3 matrix with 9 random prime numbers (using the for loop)
-
 #Question 1
+
+#Generating a 3x3 matrix with 9 random prime numbers (using the for loop)
 
 A=[[[] for i in range(3)] for i in range(3)]
 for i in range(3):
