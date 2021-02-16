@@ -1,4 +1,4 @@
-#Explain your work
+#Generating a 3x3 matrix with 9 random prime numbers (using the for loop)
 
 #Question 1
 
