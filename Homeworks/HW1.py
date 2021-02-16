@@ -8,5 +8,3 @@ for i in range(3):
         number=int(input("Please Enter Elements of Matrix A:")) 
         A[i][j]=number
         print(A)
-
-        
